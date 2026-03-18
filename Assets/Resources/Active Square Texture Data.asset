@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f54761b2d01ba07429f05d1270dee3d6, type: 3}
+  m_Name: Active Square Texture Data
+  m_EditorClassIdentifier: Assembly-CSharp::SquareTextureData
+  tresholdVal: 100
+  activeSquareTextures:
+  - texture: {fileID: -6429493399158520243, guid: 6fdac5f0f77657f4abc9e8ad7a1c2f76, type: 3}
+    squareColor: 2
+  - texture: {fileID: -4987337320017983735, guid: 9fa7ba348379727458e6559eb2612f9c, type: 3}
+    squareColor: 6
+  - texture: {fileID: -5270777365874322635, guid: cd0ad23331da7e94eaf29940ca077512, type: 3}
+    squareColor: 4
+  - texture: {fileID: 8821927308724930340, guid: 5746a340a41e53e4f9267b0d88eb5760, type: 3}
+    squareColor: 3
+  - texture: {fileID: -7381184880430962403, guid: 6d8d6da8ed5dcda4e9a5bf4a827eea04, type: 3}
+    squareColor: 7
+  - texture: {fileID: -1629362560720184693, guid: 4a613fd21736e5443b26eb7a97c1d8d4, type: 3}
+    squareColor: 8
+  - texture: {fileID: 6358040702757662528, guid: 375d11734b92a5743848d1cf88fbcc63, type: 3}
+    squareColor: 5
+  currentColor: 2
